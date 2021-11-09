@@ -45,4 +45,24 @@ The instructional team will review your branch and provide feedback.
 
 :exclamation: You may be asked in the future to update your forked repo because the curriculum development team is developing new assignments for you as the course proceeds. 
 
+## cambio1Toni
+
+# Who am I
+
+* Where are you from?
+* What do you do?
+* Do you have previous experience with technology/data?
+
+# Why am I here
+
+* What has brought you to Ironhack?
+* What knowledge/skills do you expect to learn in this bootcamp?
+
+# What will I do after the bootcamp?
+
+* Which industry will you seek employment in?
+* What will your future role look like?
+* What is your career goal?
+
+
 ### Happy coding!

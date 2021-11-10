@@ -141,3 +141,8 @@ Make a pull request to **merge the `lab-resolving-git-conflicts` branch of your 
 
 
 <p align="center"><img src="./images/git-pull-request.png" align="center"></p>
+
+
+## Modifico el readme de module1 resolving conflicts
+
+Incluimos un par de notas

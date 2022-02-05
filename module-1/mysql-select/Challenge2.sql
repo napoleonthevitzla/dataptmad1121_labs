@@ -5,3 +5,5 @@ INNER JOIN titleauthor t2 on t2.title_id =t.title_id
 INNER JOIN authors a on a.au_id =t2.au_id 
 group by a.au_id
 order by "AUTHOR ID" DESC 
+
+--Challenge 2 terminado
